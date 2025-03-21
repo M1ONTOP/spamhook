@@ -35,5 +35,4 @@ python SpamHook.py
 ✅ Now **SpamHook** should start running! 🚀
 
 **Disclaimer**:  
-Disclaimer:
-This tool is intended for educational purposes only and shoould only be used in a controlled enviroment. The author does not take responsibility for any misuse, damages, or illegal activities resulting from the use of this tool. By using this tool, you agree to comply with all applicable laws and regulations in your jurisdiction. The author encourages responsible usage and assumes no liability for any consequences that may arise from its use.
+This tool is intended for educational purposes only and should only be used in a controlled enviroment. The author does not take responsibility for any misuse, damages, or illegal activities resulting from the use of this tool. By using this tool, you agree to comply with all applicable laws and regulations in your jurisdiction. The author encourages responsible usage and assumes no liability for any consequences that may arise from its use.
